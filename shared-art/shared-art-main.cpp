@@ -1,4 +1,4 @@
-/* T03: Our Shared Art
+/* T03: Our Shared Art 
    by <Put your names here.> */  
 
 #include <iostream>
