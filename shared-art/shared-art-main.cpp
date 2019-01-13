@@ -1,5 +1,5 @@
-/* T03: Our Shared Art 
-   by <Put your names here.> */  
+/* T03: Our Shared Art
+FIXME:   by <Put your names here.> */  
 
 #include <iostream>
 using namespace std;
