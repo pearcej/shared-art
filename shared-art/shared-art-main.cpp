@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-	char stop;
+	char holdme;
 
 	cout << "           _____________________________________ " << endl;
 	cout << "         //_________________(o)_________________\\ " << endl;
@@ -28,6 +28,6 @@ int main() {
 	cout << "  /________________/                  \\________________\\ " << endl;
 	cout << " (________________/____________________\\_______________) " << endl;
 
-	cin >> stop; //Keeps window open in some cases
+	cin >> holdme; //Keeps window open in some cases
 	return 0;
 }
